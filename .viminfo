@@ -1,0 +1,329 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 7.4.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Last Search Pattern:
+~Msle0~/\<addr\>
+
+# 마지막으로 바꾼 문자열:
+$
+
+# 명령 줄 히스토리 (새것부터 오래된 것 순):
+:q
+:wq
+:q!
+:!q
+:Q
+:!wq
+:Wq
+:w
+:s
+:wq!
+:ㅈㅂ
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+? \<addr\>
+? \<fd1\>
+? }
+? \<chside\>
+? \<ch\>
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+"0	CHAR	0
+	/
+"1	CHAR	0
+	
+	
+"u	CHAR	0
+	it�kb�kb�kb�kuquit�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kbvoidvvvvvvvvv�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb
+""-	CHAR	0
+	b
+
+# 파일 마크:
+'0  95  0  /home/account/class/tspark/s13011085/hong-s.c
+'1  80  1  /home/account/class/tspark/s13011085/8-s.c
+'2  59  0  ~/PROJ/server.c
+'3  101  0  /home/account/class/tspark/s13011085/8-s.c
+'4  115  0  /home/account/class/tspark/s13011085/8-c.c
+'5  43  3  /home/account/class/tspark/s13011085/team3/server2.c
+'6  21  28  ~/finalex/ft.c
+'7  25  1  ~/finalex/ft.c
+'8  24  33  ~/finalex/ft.c
+'9  27  18  ~/finalex/ft.c
+
+# 점프목록 (새것이 먼저):
+-'  95  0  /home/account/class/tspark/s13011085/hong-s.c
+-'  1  0  /home/account/class/tspark/s13011085/hong-s.c
+-'  80  1  /home/account/class/tspark/s13011085/8-s.c
+-'  101  1  /home/account/class/tspark/s13011085/8-s.c
+-'  59  0  ~/PROJ/server.c
+-'  1  0  ~/PROJ/server.c
+-'  1  0  /home/account/class/tspark/s13011085/8-s.c
+-'  115  0  /home/account/class/tspark/s13011085/8-c.c
+-'  1  0  /home/account/class/tspark/s13011085/8-c.c
+-'  43  3  /home/account/class/tspark/s13011085/team3/server2.c
+-'  50  3  /home/account/class/tspark/s13011085/team3/server2.c
+-'  21  28  ~/finalex/ft.c
+-'  25  1  ~/finalex/ft.c
+-'  24  2  ~/finalex/ft.c
+-'  27  0  ~/finalex/ft.c
+-'  1  0  ~/finalex/ft.c
+-'  1  0  ~/fifo/p1.c
+-'  53  0  ~/finalex/final5.c
+-'  35  0  ~/finalex/final5.c
+-'  24  2  ~/finalex/final5.c
+-'  41  1  ~/finalex/final5.c
+-'  34  1  ~/finalex/final5.c
+-'  37  1  ~/finalex/final5.c
+-'  1  0  ~/finalex/fan
+-'  40  0  ~/finalex/final5.c
+-'  39  1  ~/finalex/final5.c
+-'  49  28  ~/finalex/final5.c
+-'  36  1  ~/finalex/final5.c
+-'  51  1  ~/finalex/final5.c
+-'  32  0  ~/finalex/final5.c
+-'  1  0  ~/finalex/final5.c
+-'  46  0  ~/sharedM/server3.c
+-'  1  0  ~/sharedM/server3.c
+-'  28  0  ~/messageQ/cl2.c
+-'  1  0  ~/messageQ/cl2.c
+-'  1  0  ~/messageQ/server1.c
+-'  34  0  ~/finalex/fifo_select_c.c
+-'  37  2  ~/finalex/fifo_select_s.c
+-'  1  0  ~/finalex/fifo_select_s.c
+-'  62  2  ~/fifo/select.c
+-'  1  0  ~/fifo/select.c
+-'  47  3  /home/account/class/tspark/s13011085/team3/server2.c
+-'  51  9  /home/account/class/tspark/s13011085/team3/client.c
+-'  82  2  /home/account/class/tspark/s13011085/team3/client.c
+-'  14  0  /home/account/class/tspark/s13011085/team3/server2.c
+-'  1  0  /home/account/class/tspark/s13011085/team3/server2
+-'  1  0  /home/account/class/tspark/s13011085/team3/server
+-'  75  2  /home/account/class/tspark/s13011085/team3/client.c
+-'  84  0  /home/account/class/tspark/s13011085/team3/server2.c
+-'  72  0  /home/account/class/tspark/s13011085/team3/client.c
+-'  32  2  /home/account/class/tspark/s13011085/team3/server2.c
+-'  90  1  /home/account/class/tspark/s13011085/team3/client.c
+-'  46  3  /home/account/class/tspark/s13011085/team3/server2.c
+-'  1  0  /home/account/class/tspark/s13011085/team3/server2.c
+-'  1  0  /home/account/class/tspark/s13011085/team3/client.c
+-'  36  4  /home/account/class/tspark/s13011085/team3/017.c
+-'  28  8  /home/account/class/tspark/s13011085/team3/017.c
+-'  26  0  /home/account/class/tspark/s13011085/team3/017.c
+-'  1  0  /home/account/class/tspark/s13011085/team3/017.c
+-'  1  0  /home/account/class/tspark/s13011085/team3/headers.c
+-'  90  10  ~/produ/13011017.c
+-'  120  3  ~/produ/13011017.c
+-'  37  1  ~/produ/13011017.c
+-'  117  1  ~/produ/13011017.c
+-'  97  4  ~/produ/13011017.c
+-'  116  1  ~/produ/13011017.c
+-'  59  2  ~/produ/13011017.c
+-'  54  2  ~/produ/13011017.c
+-'  144  0  ~/produ/13011017.c
+-'  128  5  ~/produ/13011017.c
+-'  52  2  ~/produ/13011017.c
+-'  77  2  ~/produ/13011017.c
+-'  141  1  ~/produ/13011017.c
+-'  129  5  ~/produ/13011017.c
+-'  75  1  ~/produ/13011017.c
+-'  142  1  ~/produ/13011017.c
+-'  60  2  ~/produ/13011017.c
+-'  101  5  ~/produ/13011017.c
+-'  102  5  ~/produ/13011017.c
+-'  74  0  ~/produ/13011017.c
+-'  61  2  ~/produ/13011017.c
+-'  103  4  ~/produ/13011017.c
+-'  112  0  ~/produ/13011017.c
+-'  88  1  ~/produ/13011017.c
+-'  63  1  ~/produ/13011017.c
+-'  87  1  ~/produ/13011017.c
+-'  64  1  ~/produ/13011017.c
+-'  113  1  ~/produ/13011017.c
+-'  40  1  ~/produ/13011017.c
+-'  136  0  ~/produ/13011017.c
+-'  91  0  ~/produ/13011017.c
+-'  71  1  ~/produ/13011017.c
+-'  24  1  ~/produ/13011017.c
+-'  66  67  ~/produ/13011017.c
+-'  34  0  ~/produ/13011017.c
+-'  72  2  ~/produ/13011017.c
+-'  36  0  ~/produ/13011017.c
+-'  1  0  ~/produ/13011017.c
+-'  1  0  ~/produ/header.c
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> /home/account/class/tspark/s13011085/hong-s.c
+	"	95	0
+
+> /home/account/class/tspark/s13011085/8-s.c
+	"	80	1
+
+> ~/PROJ/server.c
+	"	59	0
+
+> /home/account/class/tspark/s13011085/8-c.c
+	"	115	0
+
+> /home/account/class/tspark/s13011085/team3/server2.c
+	"	43	3
+	^	47	31
+	.	47	30
+	+	47	30
+
+> ~/finalex/ft.c
+	"	21	28
+	^	21	29
+	.	21	23
+	+	26	34
+	+	27	6
+	+	25	0
+	+	18	38
+	+	25	0
+	+	27	18
+	+	23	4
+	+	18	7
+	+	24	6
+	+	22	0
+	+	21	33
+	+	24	33
+	+	25	1
+	+	21	23
+
+> ~/fifo/p1.c
+	"	1	0
+
+> ~/finalex/final5.c
+	"	53	0
+	^	35	1
+	.	35	1
+	+	32	0
+	+	32	0
+	+	17	33
+	+	29	0
+	+	23	18
+	+	24	23
+	+	27	13
+	+	28	8
+	+	44	15
+	+	51	25
+	+	21	11
+	+	27	1
+	+	41	1
+	+	37	16
+	+	36	1
+	+	35	0
+	+	36	21
+	+	37	18
+	+	36	3
+	+	35	20
+	+	38	0
+	+	41	29
+	+	46	20
+	+	49	28
+	+	39	28
+	+	41	11
+	+	40	0
+	+	41	1
+	+	32	10
+	+	34	20
+	+	41	9
+	+	37	10
+	+	41	9
+	+	35	0
+	+	41	9
+	+	24	26
+	+	50	0
+	+	47	0
+	+	42	0
+	+	40	0
+	+	38	0
+	+	35	1
+
+> ~/finalex/fan
+	"	1	0
+
+> ~/sharedM/server3.c
+	"	46	0
+
+> ~/messageQ/cl2.c
+	"	28	0
+
+> ~/messageQ/server1.c
+	"	1	0
+
+> ~/finalex/fifo_select_c.c
+	"	34	0
+	^	34	0
+	.	34	0
+	+	19	17
+	+	21	0
+	+	22	0
+	+	21	21
+	+	24	0
+	+	23	18
+	+	25	86
+	+	26	14
+	+	25	18
+	+	33	0
+	+	32	20
+	+	34	0
+
+> ~/finalex/fifo_select_s.c
+	"	37	2
+	^	36	48
+	.	36	48
+	+	36	48
+
+> ~/fifo/select.c
+	"	62	2
+
+> /home/account/class/tspark/s13011085/team3/client.c
+	"	51	9
+
+> /home/account/class/tspark/s13011085/team3/server2
+	"	1	0
+
+> /home/account/class/tspark/s13011085/team3/server
+	"	1	0
+
+> /home/account/class/tspark/s13011085/team3/017.c
+	"	36	4
+	^	36	5
+	.	36	4
+	+	17	17
+	+	27	8
+	+	23	21
+	+	24	22
+	+	23	19
+	+	17	30
+	+	18	0
+	+	32	0
+	+	30	0
+	+	26	19
+	+	27	9
+	+	26	29
+	+	28	12
+	+	19	14
+	+	36	31
+	+	20	20
+	+	19	17
+	+	20	20
+	+	19	22
+	+	21	16
+	+	36	4
+
+> /home/account/class/tspark/s13011085/team3/headers.c
+	"	1	0
