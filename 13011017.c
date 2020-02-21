@@ -16,7 +16,7 @@ int main(){
 
 	dp = opendir(".");
 	fd = open("merge", O_WRONLY|O_CREAT|O_TRUNC, 0200); //permission때문에 merge가 자신을 읽어서 쓸수도 있음 - 무한루프...
-       	while(d = readdir(dp)){
+       	while((d = readdir(dp))){
        	//d = readdir(dp);
 		if(d->d_name[0]!='.'){
 			//fd = open("merge", O_WRONLY|O_CREAT|O_APPEND, 0600);
